@@ -1,0 +1,35 @@
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataEntity\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataEntity\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataEntity\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataEntity\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataEntity\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataEntity\obj\Debug\DataEntity.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataEntity\obj\Debug\DataEntity.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataEntity\obj\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataEntity\obj\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataEntity\obj\Debug\DataEntity.csprojAssemblyReference.cache
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataEntity\bin\Debug\DataEntity.dll.config
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataEntity\bin\Debug\DataEntity.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataEntity\bin\Debug\DataEntity.pdb
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataEntity\bin\Debug\EntityFramework.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataEntity\bin\Debug\EntityFramework.xml
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataEntity\obj\Debug\DataEntity.csprojAssemblyReference.cache
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataEntity\obj\Debug\DataEntity.csproj.CoreCompileInputs.cache
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataEntity\obj\Debug\DataEntity.csproj.CopyComplete
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataEntity\obj\Debug\DataEntity.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataEntity\obj\Debug\DataEntity.pdb
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataEntity\bin\Debug\DataEntity.dll.config
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataEntity\bin\Debug\DataEntity.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataEntity\bin\Debug\DataEntity.pdb
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataEntity\bin\Debug\EntityFramework.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataEntity\bin\Debug\EntityFramework.SqlServer.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataEntity\bin\Debug\EntityFramework.xml
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataEntity\bin\Debug\EntityFramework.SqlServer.xml
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataEntity\obj\Debug\DataEntity.csprojAssemblyReference.cache
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataEntity\obj\Debug\DataEntity.csproj.CopyComplete
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataEntity\obj\Debug\DataEntity.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataEntity\obj\Debug\DataEntity.pdb

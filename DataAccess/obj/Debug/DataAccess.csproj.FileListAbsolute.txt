@@ -1,0 +1,110 @@
+C:\Users\Josué\source\repos\Proyecto Final\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Josué\source\repos\Proyecto Final\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Josué\source\repos\Proyecto Final\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Josué\source\repos\Proyecto Final\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataAccess\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataAccess\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataAccess\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataAccess\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataAccess\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataAccess\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataAccess\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataAccess\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataAccess\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataAccess\bin\Debug\DataEntity.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataAccess\bin\Debug\DataEntity.pdb
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataAccess\bin\Debug\DataEntity.dll.config
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataAccess\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataAccess\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataAccess\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataAccess\bin\Debug\DataEntity.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataAccess\bin\Debug\DataEntity.pdb
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataAccess\bin\Debug\DataEntity.dll.config
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataAccess\obj\Debug\DataAccess.pdb
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataAccess\bin\Debug\DataAccess.dll.config
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataAccess\bin\Debug\DataAccess.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataAccess\bin\Debug\DataAccess.pdb
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataAccess\bin\Debug\DataEntity.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataAccess\bin\Debug\EntityFramework.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataAccess\bin\Debug\DataEntity.pdb
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataAccess\bin\Debug\DataEntity.dll.config
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataAccess\bin\Debug\EntityFramework.xml
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataAccess\obj\Debug\DataAccess.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataAccess\obj\Debug\DataAccess.pdb

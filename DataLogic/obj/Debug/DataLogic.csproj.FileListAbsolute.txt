@@ -1,0 +1,109 @@
+C:\Users\Josué\source\repos\Proyecto Final\DataLogic\bin\Debug\DataLogic.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataLogic\bin\Debug\DataLogic.pdb
+C:\Users\Josué\source\repos\Proyecto Final\DataLogic\obj\Debug\DataLogic.csproj.CoreCompileInputs.cache
+C:\Users\Josué\source\repos\Proyecto Final\DataLogic\obj\Debug\DataLogic.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataLogic\obj\Debug\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataLogic\obj\Debug\DataLogic.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataLogic\obj\Debug\DataLogic.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataLogic\obj\Debug\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataLogic\obj\Debug\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataLogic\bin\Debug\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataLogic\bin\Debug\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataLogic\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataLogic\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataLogic\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataLogic\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataLogic\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataLogic\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataLogic\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataLogic\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataLogic\obj\Debug\DataLogic.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataLogic\obj\Debug\DataLogic.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataLogic\obj\Debug\DataLogic.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataLogic\obj\Debug\DataLogic.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataLogic\obj\Debug\DataLogic.pdb
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataLogic\bin\Debug\DataLogic.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataLogic\bin\Debug\DataLogic.pdb
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataLogic\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataLogic\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataLogic\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataLogic\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataLogic\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataLogic\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataLogic\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataLogic\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataLogic\obj\Debug\DataLogic.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataLogic\bin\Debug\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataLogic\bin\Debug\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataLogic\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataLogic\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataLogic\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataLogic\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataLogic\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataLogic\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataLogic\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataLogic\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataLogic\obj\Debug\DataLogic.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataLogic\obj\Debug\DataLogic.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataLogic\obj\Debug\DataLogic.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataLogic\obj\Debug\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataLogic\obj\Debug\DataLogic.pdb
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataLogic\bin\Debug\DataLogic.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataLogic\bin\Debug\DataLogic.pdb
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataLogic\bin\Debug\DataAccess.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataLogic\bin\Debug\DataEntity.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataLogic\bin\Debug\EntityFramework.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataLogic\bin\Debug\DataAccess.pdb
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataLogic\bin\Debug\DataAccess.dll.config
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataLogic\bin\Debug\DataEntity.pdb
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataLogic\bin\Debug\DataEntity.dll.config
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataLogic\bin\Debug\EntityFramework.xml
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataLogic\obj\Debug\DataLogic.csprojAssemblyReference.cache
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataLogic\obj\Debug\DataLogic.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataLogic\obj\Debug\DataLogic.csproj.CopyComplete
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataLogic\obj\Debug\DataLogic.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataLogic\obj\Debug\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataLogic\bin\Debug\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataLogic\bin\Debug\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataLogic\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataLogic\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataLogic\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataLogic\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataLogic\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataLogic\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataLogic\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataLogic\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataLogic\obj\Debug\DataLogic.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataLogic\obj\Debug\DataLogic.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataLogic\obj\Debug\DataLogic.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataLogic\obj\Debug\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataLogic\obj\Debug\DataLogic.pdb
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataLogic\bin\Debug\DataLogic.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataLogic\bin\Debug\DataLogic.pdb
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataLogic\bin\Debug\DataAccess.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataLogic\bin\Debug\DataEntity.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataLogic\bin\Debug\EntityFramework.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataLogic\bin\Debug\DataAccess.pdb
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataLogic\bin\Debug\DataAccess.dll.config
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataLogic\bin\Debug\DataEntity.pdb
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataLogic\bin\Debug\DataEntity.dll.config
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataLogic\bin\Debug\EntityFramework.xml
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataLogic\obj\Debug\DataLogic.csprojAssemblyReference.cache
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataLogic\obj\Debug\DataLogic.csproj.CoreCompileInputs.cache
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataLogic\obj\Debug\DataLogic.csproj.CopyComplete
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataLogic\obj\Debug\DataLogic.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataLogic\obj\Debug\DataLogic.pdb
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataLogic\bin\Debug\DataLogic.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataLogic\bin\Debug\DataLogic.pdb
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataLogic\bin\Debug\DataAccess.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataLogic\bin\Debug\DataEntity.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataLogic\bin\Debug\EntityFramework.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataLogic\bin\Debug\DataAccess.pdb
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataLogic\bin\Debug\DataAccess.dll.config
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataLogic\bin\Debug\DataEntity.pdb
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataLogic\bin\Debug\DataEntity.dll.config
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataLogic\bin\Debug\EntityFramework.xml
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataLogic\obj\Debug\DataLogic.csprojAssemblyReference.cache
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataLogic\obj\Debug\DataLogic.csproj.CopyComplete
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataLogic\obj\Debug\DataLogic.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataLogic\obj\Debug\DataLogic.pdb

@@ -1,0 +1,683 @@
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\DataPresentation.dll.config
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\DataPresentation.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\DataPresentation.pdb
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\csc.exe
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\csc.exe.config
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\csc.rsp
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\csi.exe
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\csi.exe.config
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\csi.rsp
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\System.AppContext.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\System.Console.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\vbc.exe
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\vbc.exe.config
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\vbc.rsp
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\Antlr3.Runtime.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\Newtonsoft.Json.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\System.Web.Optimization.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\WebGrease.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\System.Web.Optimization.xml
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\Newtonsoft.Json.xml
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.csprojAssemblyReference.cache
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.csproj.CoreCompileInputs.cache
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.csproj.CopyComplete
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.dll
+C:\Users\Josué\source\repos\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.pdb
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\DataPresentation.dll.config
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\DataPresentation.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\DataPresentation.pdb
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\csc.exe
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\csc.exe.config
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\csc.rsp
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\csi.exe
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\csi.exe.config
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\csi.rsp
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\System.AppContext.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\System.Console.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\vbc.exe
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\vbc.exe.config
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\vbc.rsp
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\Antlr3.Runtime.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\Newtonsoft.Json.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\System.Web.Optimization.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\WebGrease.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\System.Web.Optimization.xml
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\Newtonsoft.Json.xml
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.pdb
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\Proyecto Final\DataPresentation\bin\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\DataPresentation.dll.config
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\DataPresentation.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\DataPresentation.pdb
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\csc.exe
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\csc.exe.config
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\csc.rsp
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\csi.exe
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\csi.exe.config
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\csi.rsp
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.AppContext.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Console.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\vbc.exe
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\vbc.exe.config
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\vbc.rsp
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\Antlr3.Runtime.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\DataEntity.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\DataLogic.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\EntityFramework.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\Newtonsoft.Json.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\System.Web.Optimization.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\WebGrease.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\DataAccess.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\DataEntity.pdb
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\DataLogic.pdb
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\EntityFramework.xml
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\System.Web.Optimization.xml
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\Newtonsoft.Json.xml
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\DataAccess.pdb
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.dll
+C:\Users\Sebastián Mesén\Source\Repos\ProyectoJoyotaSA\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.pdb
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\DataPresentation.dll.config
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\DataPresentation.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\DataPresentation.pdb
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\csc.exe
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\csc.exe.config
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\csc.rsp
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\csi.exe
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\csi.exe.config
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\csi.rsp
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.AppContext.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Console.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\vbc.exe
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\vbc.exe.config
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\vbc.rsp
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\Antlr3.Runtime.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\GoogleMaps.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\Newtonsoft.Json.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\System.Web.Optimization.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\WebGrease.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\GoogleMaps.xml
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\System.Web.Optimization.xml
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\Newtonsoft.Json.xml
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.pdb
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\DataPresentation.dll.config
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\DataPresentation.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\DataPresentation.pdb
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\csc.exe
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\csc.exe.config
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\csc.rsp
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\csi.exe
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\csi.exe.config
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\csi.rsp
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\System.AppContext.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\System.Console.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\vbc.exe
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\vbc.exe.config
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\vbc.rsp
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\Antlr3.Runtime.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\DataEntity.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\DataLogic.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\EntityFramework.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\EntityFramework.SqlServer.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\GoogleMaps.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\Newtonsoft.Json.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\System.Web.Optimization.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\WebGrease.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\DataAccess.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\DataEntity.pdb
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\DataEntity.dll.config
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\DataLogic.pdb
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\EntityFramework.xml
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\EntityFramework.SqlServer.xml
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\GoogleMaps.xml
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\System.Web.Optimization.xml
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\Newtonsoft.Json.xml
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\DataAccess.pdb
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\DataAccess.dll.config
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\es\System.Web.Optimization.resources.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.csprojAssemblyReference.cache
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.csproj.CopyComplete
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.pdb
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\DataPresentation.dll.config
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\DataPresentation.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\DataPresentation.pdb
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\csc.exe
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\csc.exe.config
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\csc.rsp
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\csi.exe
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\csi.exe.config
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\csi.rsp
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\System.AppContext.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\System.Console.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\vbc.exe
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\vbc.exe.config
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\vbc.rsp
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\Antlr3.Runtime.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\GoogleMaps.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\itextsharp.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\Newtonsoft.Json.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\System.Web.Optimization.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\WebGrease.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\GoogleMaps.xml
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\itextsharp.xml
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\System.Web.Optimization.xml
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\Newtonsoft.Json.xml
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.pdb
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\DataPresentation.dll.config
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\DataPresentation.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\DataPresentation.pdb
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\csc.exe
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\csc.exe.config
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\csc.rsp
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\csi.exe
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\csi.exe.config
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\csi.rsp
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.AppContext.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Console.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\vbc.exe
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\vbc.exe.config
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\vbc.rsp
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\Antlr3.Runtime.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\DataEntity.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\DataLogic.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\EntityFramework.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\EntityFramework.SqlServer.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\GoogleMaps.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\itextsharp.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\Newtonsoft.Json.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\System.Web.Optimization.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\WebGrease.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\DataAccess.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\DataEntity.pdb
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\DataEntity.dll.config
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\DataLogic.pdb
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\EntityFramework.xml
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\EntityFramework.SqlServer.xml
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\GoogleMaps.xml
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\itextsharp.xml
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\System.Web.Optimization.xml
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\Newtonsoft.Json.xml
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\DataAccess.pdb
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\DataAccess.dll.config
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.csprojAssemblyReference.cache
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.csproj.CoreCompileInputs.cache
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.csproj.CopyComplete
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.dll
+C:\Users\Josué\Desktop\Proyecto Final jruiz\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.pdb
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\DataPresentation.dll.config
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\DataPresentation.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\DataPresentation.pdb
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\csc.exe
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\csc.exe.config
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\csc.rsp
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\csi.exe
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\csi.exe.config
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\csi.rsp
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.Managed.Core.targets
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.AppContext.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Collections.Immutable.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Console.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.IO.Compression.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.IO.FileSystem.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.IO.Pipes.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Reflection.Metadata.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Security.AccessControl.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Claims.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Security.Principal.Windows.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.ValueTuple.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.XmlDocument.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.XPath.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\vbc.exe
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\vbc.exe.config
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\vbc.rsp
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\VBCSCompiler.exe
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\roslyn\VBCSCompiler.exe.config
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\Antlr3.Runtime.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\AspNet.ScriptManager.bootstrap.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\AspNet.ScriptManager.jQuery.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\DataEntity.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\DataLogic.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\EntityFramework.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\EntityFramework.SqlServer.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\GoogleMaps.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\itextsharp.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\Microsoft.ScriptManager.WebForms.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\Microsoft.Web.Infrastructure.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\Newtonsoft.Json.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\System.Web.Optimization.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\WebGrease.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\DataAccess.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\DataEntity.pdb
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\DataEntity.dll.config
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\DataLogic.pdb
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\EntityFramework.xml
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\EntityFramework.SqlServer.xml
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\GoogleMaps.xml
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\itextsharp.xml
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\System.Web.Optimization.xml
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\Newtonsoft.Json.xml
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\Antlr3.Runtime.pdb
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\DataAccess.pdb
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\DataAccess.dll.config
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\es\System.Web.Optimization.resources.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.csprojAssemblyReference.cache
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.csproj.CopyComplete
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.dll
+D:\escri\Josué\UCR\5. Quinto Semestre\Lenguaje para aplicaciones comerciales\Proyecto Final jruiz\Proyecto Final\DataPresentation\obj\Debug\DataPresentation.pdb

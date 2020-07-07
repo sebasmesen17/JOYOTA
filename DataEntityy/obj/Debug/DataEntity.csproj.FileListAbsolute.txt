@@ -1,0 +1,35 @@
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataEntity\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataEntity\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataEntity\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataEntity\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataEntity\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataEntity\obj\Debug\DataEntity.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataEntity\obj\Debug\DataEntity.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataEntity\obj\Debug\DataEntity.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataEntity\obj\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataEntity\obj\Debug\DataEntity.pdb
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataEntity\bin\Debug\DataEntity.dll.config
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataEntity\bin\Debug\DataEntity.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataEntity\bin\Debug\DataEntity.pdb
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataEntity\bin\Debug\EntityFramework.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataEntity\bin\Debug\EntityFramework.xml
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataEntity\obj\Debug\DataEntity.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataEntity\obj\Debug\DataEntity.csproj.CopyComplete
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataEntity\obj\Debug\DataEntity.dll
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataEntity\obj\Debug\DataEntity.pdb
+C:\Users\josep\OneDrive\Escritorio\Proyecto Final\DataEntity\obj\Debug\DataEntity.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataEntity\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataEntity\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataEntity\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataEntity\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataEntity\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataEntity\obj\Debug\DataEntity.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataEntity\obj\Debug\DataEntity.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataEntity\obj\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\implemmentacion de empleado\implementacion departamento\Proyecto Final\DataEntity\obj\Debug\DataEntity.pdb
